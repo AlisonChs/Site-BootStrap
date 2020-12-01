@@ -2,4 +2,4 @@
 <br>
 <br>
 
-Para visualizar o resultado aos poucos, <a href="http://etec199-2020-alisoncarvalho1.atwebpages.com/projeto_bootstrap/" target="_blank" style="text-decoration:hover: none;"> acesse o meu domínio aqui </a> e veja o resultado aos poucos.
+Para visualizar o resultado aos poucos, <a href="http://etec199-2020-alisoncarvalho1.atwebpages.com/projeto_bootstrap/" target="_blank" style="text-decoration: none;"> acesse o meu domínio aqui </a> e veja o resultado aos poucos.
